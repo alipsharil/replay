@@ -1,4 +1,2 @@
-{
-  "reporter": ["text", "html"],
-  "include": ["src/**/*"]
-}
+
+
